@@ -9,7 +9,9 @@ The programm is written on C programming language.
 
 Classes on this project :
                   
-* **Server** - Implementation of server that handling new connection by threads , each connection has its own thread and its supports many connections.
+* **Server** - Implementation of server that handling new connections by forks.
+
+* **Server_new** - Implementation of server that handling new connections by threads , each connection has its own thread and its supports many connections.
                   
 * **Client** - The client connecting to the server and recieve message from the server, we used 127.0.0.1 to connect the server.
                  
