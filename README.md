@@ -15,9 +15,6 @@ Classes on this project :
                  
 ## Run guide:
 
-Open terminal and run the command "make all". In this way we create two exe files to run.  
-We will open another terminal, and simply type in the first terminal " ./Server " and in the other " ./Client 127.0.0.1"  
-
 *1.Open the directory and open it in terminal
 *2.Use the command "make all" to create all the needed files and the executable ones.
 *3.Use the command "./server" to start server receiving and listening to new connections.
