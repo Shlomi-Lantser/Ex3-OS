@@ -15,10 +15,10 @@ Classes on this project :
                  
 ## Run guide:
 
-* 1.Open the directory and open it in terminal
-* 2.Use the command "make all" to create all the needed files and the executable ones.
-* 3.Use the command "./server" to start server receiving and listening to new connections.
-* 4.Use the command "./client [ipaddr]" ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
+* Open the directory and open it in terminal
+* Use the command "make all" to create all the needed files and the executable ones.
+* Use the command "./server" to start server receiving and listening to new connections.
+* Use the command "./client [ipaddr]" ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
 
 
 ##Video of running:
