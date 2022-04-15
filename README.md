@@ -4,12 +4,8 @@ by Or Cohen & Shlomi Lantser.
              
 In this project we implemented a server that using threads instead of forks,
 We had an example that used forks and changed it to multi threading.
+The goal on this project is to show that threading and forks working similar and show that we can reach the same goals by using one or another.
 The programm is written on C++ promgramming language.
-
-
-## Main Goal Of The Project             
-The main goal of this project was to show that the fork commends and threads commands
-are actually working approximately the same behind the scene. 
 
 Classes on this project :
                   
