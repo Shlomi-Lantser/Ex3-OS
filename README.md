@@ -9,11 +9,11 @@ The programm is written on C programming language.
 
 Classes on this project :
                   
-* Server - Implementation of server that handling new connection by threads , each connection has its own thread and its supports many connections.
+* **Server** - Implementation of server that handling new connection by threads , each connection has its own thread and its supports many connections.
                   
-* Client - The client connecting to the server and recieve message from the server, we used 127.0.0.1 to connect the server.
+* **Client** - The client connecting to the server and recieve message from the server, we used 127.0.0.1 to connect the server.
                  
-## Run guide:
+## Running guide:
 
 * Clone this ripository
 * Open the directory and open it in terminal
