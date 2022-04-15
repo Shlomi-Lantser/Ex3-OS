@@ -15,6 +15,7 @@ Classes on this project :
                  
 ## Run guide:
 
+* Clone this ripository
 * Open the directory and open it in terminal
 * Use the command `make all` to create all the needed files and the executable ones.
 * Use the command `./serverexe` to start server receiving and listening to new connections.
