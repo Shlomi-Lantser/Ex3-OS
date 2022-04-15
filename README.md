@@ -18,8 +18,7 @@ Classes on this project :
 ## Run guide:
 
 * Open the directory and open it in terminal
-* Use the command <span style="color: green"> **"make all"** </span> to create all the needed files and the executable ones.
-* <font color="green"> Some green text </font>
+* Use the command !**"make all"** to create all the needed files and the executable ones.
 * Use the command **"./server"** to start server receiving and listening to new connections.
 * Use the command **"./client [ipaddr]"** ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
 
