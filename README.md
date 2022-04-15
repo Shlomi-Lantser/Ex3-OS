@@ -1,5 +1,5 @@
 # Ex3-OS
-by Or Cohen & Shlomi Lantser.
+## Or Cohen & Shlomi Lantser.
 
 # Description
 In this project we implemented a server that using threads instead of forks,
