@@ -1,7 +1,5 @@
 # Ex3-OS
 by Or Cohen & Shlomi Lantser.
-             
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 
 # Description
 In this project we implemented a server that using threads instead of forks,
@@ -18,7 +16,7 @@ Classes on this project :
 ## Run guide:
 
 * Open the directory and open it in terminal
-* Use the command !**"make all"** to create all the needed files and the executable ones.
+* Use the command **"make all"** to create all the needed files and the executable ones.
 * Use the command **"./server"** to start server receiving and listening to new connections.
 * Use the command **"./client [ipaddr]"** ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
 
