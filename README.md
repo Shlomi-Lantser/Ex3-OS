@@ -17,8 +17,8 @@ Classes on this project :
 
 * Open the directory and open it in terminal
 * Use the command **"make all"** to create all the needed files and the executable ones.
-* Use the command **"./server"** to start server receiving and listening to new connections.
-* Use the command **"./client [ipaddr]"** ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
+* Use the command **"./serverexe"** to start server receiving and listening to new connections.
+* Use the command **"./clientexe [ipaddr]"** ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
 * Use the command **"make clean"** to clean all the files after you done.
 
 
