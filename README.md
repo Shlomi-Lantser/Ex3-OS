@@ -1,7 +1,8 @@
 # Ex3-OS
 by Or Cohen & Shlomi Lantser.
              
-   
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+
 # Description
 In this project we implemented a server that using threads instead of forks,
 We had an example that used forks and changed it to multi threading.
