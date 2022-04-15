@@ -5,7 +5,7 @@
 In this project we implemented a server that using threads instead of forks,
 We had an example that used forks and changed it to multi threading.
 The goal on this project is to show that threading and forks working similar and show that we can reach the same goals by using one or another.
-The programm is written on C++ promgramming language.
+The programm is written on C promgramming language.
 
 Classes on this project :
                   
