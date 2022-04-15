@@ -18,10 +18,10 @@ Classes on this project :
 Open terminal and run the command "make all". In this way we create two exe files to run.  
 We will open another terminal, and simply type in the first terminal " ./Server " and in the other " ./Client 127.0.0.1"  
 
-1.Open the directory and open it in terminal
-2.Use the command "make all" to create all the needed files and the executable ones.
-3.Use the command "./server" to start server receiving and listening to new connections.
-4.Use the command "./client [ipaddr]" ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
+*1.Open the directory and open it in terminal
+*2.Use the command "make all" to create all the needed files and the executable ones.
+*3.Use the command "./server" to start server receiving and listening to new connections.
+*4.Use the command "./client [ipaddr]" ipaddr is the ip address that using to connect the sever aka : 127.0.0.1
 
 
 ##Video of running:
